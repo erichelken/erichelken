@@ -1,0 +1,77 @@
+body{
+    color: #53502D;
+    background-color:#090F0B;
+}
+.title{
+    position: relative;
+    bottom: 90px;
+    left: 10px;
+    color: #E9BBA4;
+    font-size: 139px;
+}
+.secondtitle{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    color: #B7936D;
+    font-size: 50px;
+
+}
+.secondtitleshadow1{
+    font-style: italic;
+    position: absolute;
+    top: 60px;
+    left: 270px;
+    color: #2E3F39;
+    font-size: 50px;
+}
+.secondtitleshadow2{
+    font-style: italic;
+    position: absolute;
+    top: 60px;
+    left: 475px;
+    color: #2E3F39;
+    font-size: 50px;
+}
+header{
+    background-color: #202B27;
+    height: 160px;
+}
+.logo{
+    padding: 30px;
+    height: 100px;
+}
+
+header nav{
+    position: absolute;
+    top: 160px;
+    background-color: #35351B;
+    font-style: italic;
+    height: 10px;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    float: left;
+}
+header nav ul li a{
+    padding: 10px 99px;
+    display: block;
+    text-decoration: none;
+    color: #87824f;
+    font-size: 25px;
+    right: 150px;
+}
+header nav ul li a:hover{
+    background: #53502D;
+    
+}
+.abouttitle{
+    color:#2E3F39 ;
+    font-size: 50px;
+    font-style: italic;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
